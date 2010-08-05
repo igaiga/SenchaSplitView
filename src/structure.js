@@ -58,12 +58,12 @@ sink.Structure = [{
     }]
 },
 {
-    text: 'Events',
-    card: demos.Touch,
-    source: 'src/demos/touch.js'
+    text: 'PDF',
+    card: demos.Pdf,
+    source: 'src/pdf.js'
 },
 {
-    text: 'Data',
-    card: demos.Data,
-    source: 'src/demos/data.js'
+    text: 'png',
+    card: demos.Png,
+    source: 'src/png.js'
 }];
